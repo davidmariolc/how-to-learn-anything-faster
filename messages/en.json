@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "title": "How to Learn Anything Faster",
+    "description": "An illustrated guide to active recall, deliberate practice, and a learning loop you can use today."
+  },
+  "navigation": {
+    "brand": "Learning Notes",
+    "chapters": "Chapters",
+    "language": "Language",
+    "skip": "Skip to the story",
+    "trap": "The trap",
+    "recall": "Recall",
+    "practice": "Practice",
+    "simulation": "Simulation",
+    "loop": "The loop",
+    "today": "Use it today"
+  },
+  "hero": {
+    "label": "A field guide to learning",
+    "titleStart": "How to learn",
+    "titleMiddle": "anything",
+    "titleEnd": "faster",
+    "intro": "Turn what you read, watch, and hear into a skill you can actually use.",
+    "start": "Start reading",
+    "alt": "An open book whose pages become blue steps, with a yellow pencil across the page.",
+    "sequence": "From information to action",
+    "read": "Read",
+    "hear": "Listen",
+    "see": "Look",
+    "watch": "Watch a demo",
+    "discuss": "Discuss",
+    "do": "Do it"
+  },
+  "trap": {
+    "label": "The learning trap",
+    "title": "Knowing is only the beginning.",
+    "intro": "A book, a tutorial, or a page of highlighted notes can make a topic feel familiar. The test is what you can do with it.",
+    "theory": "Theory",
+    "practice": "Practice",
+    "alt": "On the left, a learner sits among books and tutorials. On the right, they assemble a wooden stool.",
+    "habitRead": "Reading books and rarely applying the lessons.",
+    "habitWatch": "Watching tutorials without trying the technique.",
+    "habitHighlight": "Highlighting notes without testing yourself.",
+    "habitCollect": "Collecting information you struggle to recall.",
+    "takeaway": "Real learning begins when you do something with what you know."
+  },
+  "recall": {
+    "label": "Active recall",
+    "title": "Test yourself.",
+    "intro": "Close your notes and try to retrieve the idea from memory. That effort helps you bring it back when you need it.",
+    "exerciseSummarize": "Summarize a chapter from memory.",
+    "exerciseAnswer": "Answer questions with your notes closed.",
+    "exerciseFlashcard": "Use flashcards to test key concepts.",
+    "exerciseRevisit": "Revisit difficult ideas at increasing intervals.",
+    "cardLabel": "Try a flashcard",
+    "prompt": "What do you remember without looking?",
+    "reveal": "Reveal an example",
+    "answer": "After a chapter, close the book. Explain its main idea in your own words, then open it again to see what you missed."
+  },
+  "practice": {
+    "label": "Practice",
+    "title": "Turn knowledge into action.",
+    "intro": "Pick a small task that lets you use the thing you just learned.",
+    "alt": "Hands with a pencil and notebook fit a wooden piece into a project on a worktable.",
+    "writingTitle": "Writing",
+    "writingText": "Write something every day.",
+    "codingTitle": "Coding",
+    "codingText": "Build a small project.",
+    "conversationTitle": "Communication",
+    "conversationText": "Practice real conversations.",
+    "businessTitle": "Business",
+    "businessText": "Study a problem and develop a solution.",
+    "takeaway": "Start with a small exercise, get feedback, then gradually increase the difficulty."
+  },
+  "simulation": {
+    "label": "Simulate reality",
+    "title": "Practice for the real thing.",
+    "intro": "Make your practice resemble the situation in which you’ll actually use the skill.",
+    "rehearse": "Rehearse alone",
+    "rehearseAlt": "A person rehearses a talk from their notes at a desk.",
+    "perform": "Speak to an audience",
+    "performAlt": "The same speaker delivers a talk to three people at a small lectern.",
+    "examples": "Where to try it",
+    "languages": "Languages",
+    "speaking": "Public speaking",
+    "interviews": "Interviews",
+    "business": "Business",
+    "exams": "Exams"
+  },
+  "loop": {
+    "title": "The learning loop.",
+    "intro": "Use this cycle to turn one important idea into a skill. Then repeat.",
+    "diagramCenter": "Skill",
+    "learnTitle": "Learn",
+    "learnText": "Study one important concept.",
+    "recallTitle": "Recall",
+    "recallText": "Close your notes and explain what you remember.",
+    "applyTitle": "Apply",
+    "applyText": "Use the concept in a real task or practical exercise.",
+    "reflectTitle": "Reflect",
+    "reflectText": "Identify what went wrong, get feedback, and improve."
+  },
+  "today": {
+    "title": "Put it to work today.",
+    "intro": "After your next book, course, podcast, or tutorial, ask yourself three questions.",
+    "first": "What did I learn?",
+    "second": "Can I explain it without looking?",
+    "third": "How can I apply it today?",
+    "repeat": "Return to the learning loop",
+    "top": "Back to top"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "title": "Cómo aprender cualquier cosa más rápido",
+    "description": "Una guía ilustrada sobre el recuerdo activo, la práctica y un ciclo de aprendizaje que puedes usar hoy."
+  },
+  "navigation": {
+    "brand": "Notas de aprendizaje",
+    "chapters": "Capítulos",
+    "language": "Idioma",
+    "skip": "Saltar al contenido",
+    "trap": "La trampa",
+    "recall": "Recuerdo",
+    "practice": "Práctica",
+    "simulation": "Simulación",
+    "loop": "El ciclo",
+    "today": "Úsalo hoy"
+  },
+  "hero": {
+    "label": "Una guía práctica de aprendizaje",
+    "titleStart": "Cómo aprender",
+    "titleMiddle": "cualquier cosa",
+    "titleEnd": "más rápido",
+    "intro": "Convierte lo que lees, ves y escuchas en una habilidad que puedas usar.",
+    "start": "Empezar a leer",
+    "alt": "Las páginas de un libro abierto se convierten en escalones azules. Sobre el libro hay un lápiz amarillo.",
+    "sequence": "De la información a la acción",
+    "read": "Leer",
+    "hear": "Escuchar",
+    "see": "Observar",
+    "watch": "Ver una demostración",
+    "discuss": "Conversar",
+    "do": "Hacer"
+  },
+  "trap": {
+    "label": "La trampa del aprendizaje",
+    "title": "Saber es solo el comienzo.",
+    "intro": "Un libro, un tutorial o una página de apuntes subrayados pueden hacer que un tema te resulte familiar. La prueba está en lo que puedes hacer con él.",
+    "theory": "Teoría",
+    "practice": "Práctica",
+    "alt": "A la izquierda, una persona estudia entre libros y tutoriales. A la derecha, arma un banco de madera.",
+    "habitRead": "Leer libros y rara vez aplicar las lecciones.",
+    "habitWatch": "Ver tutoriales sin probar la técnica.",
+    "habitHighlight": "Subrayar apuntes sin ponerte a prueba.",
+    "habitCollect": "Acumular información que luego te cuesta recordar.",
+    "takeaway": "El aprendizaje empieza cuando haces algo con lo que sabes."
+  },
+  "recall": {
+    "label": "Recuerdo activo",
+    "title": "Ponte a prueba.",
+    "intro": "Cierra tus apuntes e intenta recuperar la idea de memoria. Ese esfuerzo te ayuda a recordarla cuando la necesites.",
+    "exerciseSummarize": "Resume un capítulo de memoria.",
+    "exerciseAnswer": "Responde preguntas con los apuntes cerrados.",
+    "exerciseFlashcard": "Usa tarjetas para poner a prueba conceptos clave.",
+    "exerciseRevisit": "Repasa las ideas difíciles a intervalos cada vez más largos.",
+    "cardLabel": "Prueba una tarjeta",
+    "prompt": "¿Qué recuerdas sin mirar?",
+    "reveal": "Ver un ejemplo",
+    "answer": "Al terminar un capítulo, cierra el libro. Explica la idea principal con tus propias palabras y vuelve a abrirlo para ver qué se te escapó."
+  },
+  "practice": {
+    "label": "Práctica",
+    "title": "Convierte lo aprendido en acción.",
+    "intro": "Elige una tarea pequeña que puedas resolver con lo que acabas de aprender.",
+    "alt": "En una mesa de trabajo, unas manos encajan una pieza de madera junto a un cuaderno y un lápiz.",
+    "writingTitle": "Escritura",
+    "writingText": "Escribe algo todos los días.",
+    "codingTitle": "Programación",
+    "codingText": "Construye un proyecto pequeño.",
+    "conversationTitle": "Comunicación",
+    "conversationText": "Practica conversaciones reales.",
+    "businessTitle": "Negocios",
+    "businessText": "Estudia un problema y desarrolla una solución.",
+    "takeaway": "Empieza con un ejercicio pequeño, pide retroalimentación y aumenta la dificultad poco a poco."
+  },
+  "simulation": {
+    "label": "Simula la realidad",
+    "title": "Practica en condiciones reales.",
+    "intro": "Haz que tu práctica se parezca a la situación en la que vas a usar la habilidad.",
+    "rehearse": "Ensaya a solas",
+    "rehearseAlt": "Una persona ensaya una charla con sus apuntes en un escritorio.",
+    "perform": "Habla ante un público",
+    "performAlt": "La misma persona presenta su charla ante tres asistentes desde un atril.",
+    "examples": "Dónde probarlo",
+    "languages": "Idiomas",
+    "speaking": "Oratoria",
+    "interviews": "Entrevistas",
+    "business": "Negocios",
+    "exams": "Exámenes"
+  },
+  "loop": {
+    "title": "El ciclo de aprendizaje.",
+    "intro": "Usa este ciclo para convertir una idea importante en una habilidad. Luego repite.",
+    "diagramCenter": "Habilidad",
+    "learnTitle": "Aprende",
+    "learnText": "Estudia un concepto importante.",
+    "recallTitle": "Recuerda",
+    "recallText": "Cierra tus apuntes y explica lo que recuerdas.",
+    "applyTitle": "Aplica",
+    "applyText": "Usa el concepto en una tarea real o un ejercicio práctico.",
+    "reflectTitle": "Reflexiona",
+    "reflectText": "Identifica tus errores, pide retroalimentación y mejora."
+  },
+  "today": {
+    "title": "Ponlo en práctica hoy.",
+    "intro": "Al terminar tu próximo libro, curso, podcast o tutorial, hazte tres preguntas.",
+    "first": "¿Qué aprendí?",
+    "second": "¿Puedo explicarlo sin mirar?",
+    "third": "¿Cómo puedo aplicarlo hoy?",
+    "repeat": "Volver al ciclo de aprendizaje",
+    "top": "Volver arriba"
+  }
+}

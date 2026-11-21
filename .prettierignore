@@ -1,0 +1,4 @@
+/pnpm-lock.yaml
+
+# Preserve the original formatting of installed skill documentation.
+/.agents/skills/**/*.md
