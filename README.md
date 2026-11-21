@@ -2,6 +2,8 @@
 
 Una guía ilustrada e interactiva para convertir lo que lees, ves y escuchas en habilidades que puedes usar.
 
+[Leer en español](https://how-to-learn-anything-faster-omega.vercel.app/es) · [Read in English](https://how-to-learn-anything-faster-omega.vercel.app/en)
+
 ![Un libro abierto cuyas páginas forman una escalera azul, con un lápiz amarillo sobre el papel.](public/learning/cover.webp)
 
 ## Qué encontrarás
